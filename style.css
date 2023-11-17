@@ -1,6 +1,5 @@
 .cabecalho {
     background-color: #51025a;
-    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -12,3 +11,7 @@
     width: 20%
 }
 
+.cabecalho-lista-item{
+    display: inline-block;
+
+}
